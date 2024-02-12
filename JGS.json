@@ -1,0 +1,335 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "title": "Phalenopsis ",
+        "place": "półcień",
+        "description": "Najpopularniejsza odmiana storczyka doniczkowego, którą obecnie możemy znaleźć w większości sklepach. Lubi półcień, ciepło i wysoką wilgotność powietrza. Liście, które są szerokie i wydłużone gromadzą zapasy wody, a korzenie z powietrza pobierają wodę. Kwiaty tego storczyka w naturalnym środowisku osiągają średnicę 12 cm oraz są barwy białej. Występują również w odcieniach żółci, brązu i różu, często z występującymi ciemnymi plamkami. Hodowcy tych kwiatów stworzyli wiele „mieszańców”, które różnią się liśćmi i kwiatami.",
+        "featured": true,
+        "type": "Orchidea",
+        "image": "https://cdn.pixabay.com/photo/2018/07/28/12/08/orchid-3567917_1280.jpg",
+        "price": "39.54",
+        "shipping": false
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "title": "Paphiopedilum",
+        "type": "Orchidea",
+        "description": "Storczyk naziemny pochodzący z południowej Azji. Najlepiej rozwija się w umiarkowanej temperaturze, półcieniu i równomiernej wilgoci podłoża. Lekko nawozimy go od kwietnia do września. Charakterystyczne dla tego storczyka jest to, że z każdej rozety liściowej przeważnie wyrasta tylko jeden pęd kwiatowy. W trakcie wzrostu storczyka w pachwinach liści tworzą się rozety, dzięki którym wyrastają kolejne pędy kwiatowe w następnym roku.",
+        "featured": false,
+        "place": "półcień",
+        "image": "https://cdn.pixabay.com/photo/2022/08/14/07/46/flower-7385120_1280.jpg",
+        "price": "55",
+        "shipping": true
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "title": "Vanda",
+        "type": "Orchidea",
+        "description": "Uprawiany bez podłoża. Potrzebuje dużo światła, wysokiej wilgotności powietrza i umiarkowanej temperatury.",
+        "featured": true,
+        "place": "słoneczne",
+        "image": "https://cdn.pixabay.com/photo/2023/06/13/22/41/flowers-8061893_1280.jpg",
+        "price": "69",
+        "shipping": false
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "title": "Dendrobium ",
+        "type": "Orchidea",
+        "description": "Łatwy w uprawie oraz potrzebuje umiarkowanych warunków klimatycznych.",
+        "featured": true,
+        "place": "półcień",
+        "image": "https://cdn.pixabay.com/photo/2022/06/19/07/25/larat-orchid-7271216_1280.jpg",
+        "price": "25",
+        "shipping": false
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "title": "Grubosz jajowaty",
+        "type": "Sukulent",
+        "description": "Drzewko szczęście pochodzi z suchych i gorących obszarów Afryki Południowej. Sukulent zaliczany jest do grona rodziny gruboszowatych. Łacińska nazwa to crassula ovata. Drzewko ma silne rozgałęzienia, osiąga wysokość 2 m, ale tylko w naturalnym środowisku. W warunkach domowych dorasta do 1 m i umożliwia swobodne formowanie. Rośnie bardzo wolno, posiada płaskie, mięsiste i błyszczące liście. Gruby drewniany pień oraz liście służą do magazynowania wody. Roślina potrafi zebrać jej duże ilości, a to pozwala jej potrwać nawet bardzo długie okresy suszy.",
+        "featured": false,
+        "place": "słoneczne",
+        "image": "https://cdn.pixabay.com/photo/2020/03/02/12/46/plant-4895676_1280.jpg",
+        "price": "15",
+        "shipping": false
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "title": "Kalanchoe",
+        "type": "Sukulent",
+        "description": "Kalanchoe blossfeldiana, jak większość gatunków Kalanchoe, jest sukulentem o mięsistych liściach. Tworzy wyprostowane, rozkrzewiające się pędy, pokryte drobnymi liśćmi. Zgrubiałe, soczyste, okrągłe liście czasami mogą mieć czerwoną obwódkę. Na szczytach pędów rozwijają się kwiatostany złożone z dużej liczby małych kwiatków, w różnych odcieniach czerwonego, żółtego, pomarańczowego, różowego, fioletowego i białego koloru. Barwy kwiatów ładnie kontrastują z ciemną zielenią lekko ząbkowatych liści.",
+        "featured": false,
+        "place": "jasne",
+        "image": "https://cdn.pixabay.com/photo/2020/04/25/14/09/spring-5090978_1280.jpg",
+        "price": "8",
+        "shipping": true
+      }
+    },
+    {
+      "id": 7,
+      "attributes": {
+        "title": "Sansewieria gwinejska",
+        "type": "Sukulent",
+        "description": "Ciekawy sukulent liściowy. Świetnie znosi warunki mieszkaniowe, jest niewymagający i łatwy w uprawie. Posadzony w ładnej doniczce będzie doskonale się prezentował  i stanowił elegancką ozdobę zarówno nowoczesnych wnętrz nastawionych na minimalizm jak i tradycyjnych mieszkań. ",
+        "featured": false,
+        "place": "półcień",
+        "image": "https://cdn.pixabay.com/photo/2020/02/18/13/02/plant-4859393_1280.jpg",
+        "price": "22",
+        "shipping": true
+      }
+    },
+    {
+      "id": 8,
+      "attributes": {
+        "title": "Aloe Vera",
+        "type": "Sukulent",
+        "description": "Niewiele roślin nadających się do uprawy w mieszkaniu posiada tak cenne właściwości lecznicze jak Aloe vera. Tworzy rozetę liści: grubych, mięsistych, o mieczowatym kształcie. Na brzegach liści wyrastają delikatne w dotyku kolce. Po przekrojeniu liścia w poprzek widoczny jest sącząca się z kanalików skóry żółta ciecz - aloina i galaretowaty, zielonawy miąższ, bogaty m. in. w witaminy (A, C, E i z grupy B), sole mineralne (min. potas, wapń, magnez, fosfor, siarkę, cynk, molibden, miedź), kwasy organiczne (min. cynamonowy, bursztynowy), wielocukry, glikoproteidy (aloektynę) oraz stymulatory biogenne. Dzięki takiemu bogactwu składników, miąższ aloesu wykazuje właściwości bakteriobójcze, regenerujące błonę śluzową i skórę, przeciwzapalne oraz pobudzające układ odpornościowy. Roślina dorasta do około 60 cm wysokości. Najlepiej postawić ją w miejscu nasłonecznionym. Od wiosny do jesieni podlewać obficie i nawozić co dwa tygodnie płynnym nawozem. Zima podlewanie ograniczyć i zaprzestać nawożenia.",
+        "featured": false,
+        "place": "słoneczne",
+        "image": "https://cdn.pixabay.com/photo/2020/05/11/10/44/aloe-vera-5157522_1280.jpg",
+        "price": "36",
+        "shipping": false
+      }
+    },
+    {
+      "id": 9,
+      "attributes": {
+        "title": "Pilea peperomioides",
+        "type": "Pokrzywowate",
+        "description": "Pilea peperomiowata jest dość niepozorną, a za razem bardzo ciekawą rośliną doniczkową, która w ostatnich latach wróciła do naszych salonów po długiej przerwie. Potocznie nazywana jest pieniążkiem, ze względu na kształt liści, które przypominają monety. Można spotkać się też z określeniem „wystrzałowa roślina” - ponieważ pilea wystrzeliwuje dojrzałe nasiona na sporą odległość.",
+        "featured": false,
+        "place": "jasne",
+        "image": "https://cdn.pixabay.com/photo/2018/12/02/21/41/pilea-3852265_1280.jpg",
+        "price": "36",
+        "shipping": true
+      }
+    },
+    {
+      "id": 10,
+      "attributes": {
+        "title": "Monstera deliciosa",
+        "type": "Obrazkowate",
+        "description": "Monstera deliciosa to okazałe, modne, silnie płożące się pnącze o bardzo okazałych, spektakularnych liściach. W naturze występuje na terenach lasów tropikalnych Ameryki Środkowej i Południowej. Ozdobą tego niezwykłego gatunku są bardzo duże liście średnicy nawet 60 cm. Monstera deliciosa wytwarza również liczne korzenie powietrzne, które nadają tej roślinie charakteru i umożliwiają jej pięcie się w górę. Młode liście są jasnozielone, z czasem jednak nabierają ciemniejszego koloru, a na ich powierzchni pojawiają się charakterystyczne wcięcia i dziury.",
+        "featured": false,
+        "place": "jasne",
+        "image": "https://cdn.pixabay.com/photo/2018/04/08/17/03/ceriman-3301769_1280.jpg",
+        "price": "39",
+        "shipping": false
+      }
+    },
+    {
+      "id": 11,
+      "attributes": {
+        "title": "Skrzydłokwiat",
+        "type": "Obrazkowate",
+        "description": "Wyjątkowa roślina domowa, której ozdobą są dekoracyjne liście oraz oryginalne kwiaty. Skrzydłokwiat 'Pearl Cupido' dorasta do około 30 cm wysokości, tworząc gęste, efektowne kępy. Roślina jest pełna wdzięku i elegancji. Posiada długie, lancetowate, błyszczące, ciemnozielone liście, osadzone na długich ogonkach, wyrastających bezpośrednio z podziemnego kłącza. W uprawie doniczkowej skrzydłokwiat może kwitnąć cały rok.",
+        "featured": false,
+        "place": "półcień",
+        "image": "https://cdn.pixabay.com/photo/2020/04/28/05/24/spathiphyllum-5102826_1280.jpg",
+        "price": "24",
+        "shipping": true
+      }
+    },
+    {
+      "id": 12,
+      "attributes": {
+        "title": "Ceropegia woodii",
+        "type": "Toinowate",
+        "description": "Efektowna, oryginalna roślina domowa o atrakcyjnym pokroju, dekoracyjnym ulistnieniu oraz pięknych kwiatach. Ceropegia woodii jest sukulentem liściowym. Zapasy wody gromadzi w mięsistych liściach oraz bulwach. W naturze gatunek ten występuje na terenie Afryki Południowej. Roślina tworzy mocno ukorzenioną bulwę, z której wyrastają długie, nitkowate, purpurowo podbarwione pędy. Zdobione są one drobnymi, skórzastymi liśćmi o sercowatym lub nerkowatym kształcie, które ułożone są naprzeciwlegle w dość równych odstępach od siebie. Powierzchnia blaszki liściowej od spodu jest purpurowo-czerwona, a z wierzchu zdobiona srebrzysto-zielonym, marmurkowym wzorem oraz zielonym, wąskim obrzeżeniem. Pod koniec lata pomiędzy liśćmi pojawiają się nietuzinkowe, fioletowo-kremowe kwiaty o egzotycznym wyglądzie. ",
+        "featured": true,
+        "place": "jasne",
+        "image": "https://cdn.pixabay.com/photo/2018/07/24/19/38/flower-chandelier-3559890_1280.jpg",
+        "price": "29",
+        "shipping": false
+      }
+    },
+    {
+      "id": 13,
+      "attributes": {
+        "title": "Lithops Żywe kamienie szczęścia",
+        "type": "Sukulent",
+        "description": "Ten niepozorny gatunek dzięki twardym, mięsistym liściom ukazuje swe prawdziwe piękno, kiedy z kamieni wyrastają duże okazałe kwiaty. Wtedy to okazuje się, że to nie kamienie, a żywe rośliny. Na przestrzeni wieków rośliny te zdołały przystosować się do panujących w naturalnym środowisku, ekstremalnych warunków, powodując wykształcenie grubych, mięsistych liści w kształcie owalnych kamieni. Ich powierzchnia może mieć różny kolor, fakturę oraz kształt. Taki wizerunek pozwolił im zamaskować się przed głodnymi zwierzętami, a mięsiste liście (kamienie) posłużyły jako magazyn wody na długie miesiące bez deszczu.",
+        "featured": false,
+        "place": "słoneczne",
+        "image": "https://cdn.pixabay.com/photo/2015/03/04/17/14/living-stone-659124_1280.jpg",
+        "price": "69",
+        "shipping": false
+      }
+    },
+    {
+      "id": 14,
+      "attributes": {
+        "title": "Hoya carnosa Red hybrid",
+        "type": "Toinowate",
+        "description": "Czarująca odmiana o niesamowicie ozdobnych, żywoczerwonych kwiatach zebranych w baldachy. Jasne, lekko włochate obwódki gwiazdkowych kwiatów mocno odznaczają się na tle czerwonej półkuli, sprawiając wrażenie surrealistycznych. Walorem dekoracyjnym tej rośliny są również grube, mięsiste, ciemnozielone liście z delikatnym, jaśniejszym nakrapianiem. Pod wpływem słońca liście przybierają delikatnie bordowy odcień. Ta hoja może być uprawiana zarówno jako roślina pnąca, jak i zwisająca w pojemnikach wiszących. Jej naturalnym środowiskiem są lasy tropikalne Indii, Chin oraz Australii, gdzie rośnie jako pół-epifit.  Dobrze znosi niskie temperatury zimą (około 15 stopni) pod warunkiem jednoczesnego rzadkiego podlewania. Roślina nie znosi utrzymującej się wilgoci w podłożu. Należy ją przesadzać dopiero wtedy, gdy korzenie dobrze przerosną bryłę korzeniową. Preferuje stanowisko jasne, ale należy ją chronić przed bezpośrednim nasłonecznieniem. Gatunek niewymagający specjalnej troski podczas uprawy domowej, polecany również dla amatorów.",
+        "featured": true,
+        "place": "jasne",
+        "image": "https://cdn.pixabay.com/photo/2022/11/06/14/44/plant-7574184_1280.jpg",
+        "price": "49",
+        "shipping": true
+      }
+    },
+    {
+      "id": 15,
+      "attributes": {
+        "title": "Echinocactus grusonii",
+        "type": "Kaktus",
+        "description": "Pochodzący z Meksyku, niesamowity kaktus, który potocznie występuje pod zabawną nazwą „fotel teściowej” lub „poduszka teściowej”. Obie są nawiązaniem do kształtu oraz rozmiaru rośliny. Występujące w łacińskiej nazwie słowo echino, oznacza jeża i również doskonale oddaje jej wygląd. Echinocactus grusonii cechuje się niemal idealnie kulistym kształtem, jednak posiada delikatnie spłaszczony szczyt. Wraz z rozwojem przybiera nieco bardziej wydłużoną formę. W uprawie doniczkowej dorasta do około 80-100 centymetrów wysokości -w porównaniu z innymi gatunkami o kulistej formie jest zatem potężny. Jego zieloną powierzchnię zredukowanego, kulistego pędu zdobi liczna ilość żeber, które udekorowane są gęsto osadzonymi areolami. Jego kolce są długie, ostre, początkowo w białym, a później w złocistym kolorze. Dojrzałe oraz dorodne okazy (o średnicy około 50 cm) kwitną przez całe lato. Dokoła wierzchołka rośliny pojawia się wówczas wianuszek składający się z jasnożółtych kwiatów, które otoczone są brązowymi włoskami",
+        "featured": false,
+        "place": "słoneczne",
+        "image": "https://cdn.pixabay.com/photo/2022/08/20/09/17/golden-barrel-cactus-7398667_1280.jpg",
+        "price": "99",
+        "shipping": true
+      }
+    },
+    {
+      "id": 16,
+      "attributes": {
+        "title": "Gymnocalycium baldianum",
+        "type": "Kaktus",
+        "description": "Gymnocalycium baldianum to niezwykły kaktus pochodzący z górzystych i trawiastych obszarów Argentyny. Wytwarza kulisty, nieco spłaszczony pęd, osiągający średnice około 13 cm. Powierzchnia łodygi podzielona jest na około 9-11 dość szerokich żeber o ciemnozielonej, wpadającej w czerń barwie, którą przełamują odcienie szarości. Roślinę zdobią dodatkowo zakrzywione, promieniście rozłożone, kremowe kolce. To właśnie ze względu na ich kształt i ułożenie Gymnocalycium baldianum nazywany jest także kaktusem pająkiem (Spider-cactus). Wczesnym latem pojawiają się duże kwiaty osadzone na grubych, wzniesionych łodyżkach. Należy do kaktusów cenionych za wyraziste i obfite kwitnienie. ",
+        "featured": false,
+        "place": "słoneczne",
+        "image": "https://cdn.pixabay.com/photo/2023/02/01/17/58/cactus-7760970_1280.jpg",
+        "price": "39",
+        "shipping": false
+      }
+    },
+    {
+      "id": 17,
+      "attributes": {
+        "title": "Philodendron scandens 'Brasil' Filodendron pnący",
+        "type": "Obrazkowate",
+        "description": "Filodendron pnący należy do najprostszych w uprawie domowej pnączy. Ceni się go za szybki wzrost, urodę i zieleń liści oraz małe wymagania. Sercowate, połyskujące liście układają się regularnie na pędach tworząc dachówkowaty układ skierowany do źródła światła. W warunkach domowych filodendron pnący może osiągnąć 2-3 metry długości przyrastając o kilkadziesiąt centymetrów rocznie. Najefektowniej prezentuje się prowadzony przy paliku lub na podporze w postaci kratownicy. Można uprawiać go również jako roślinę zwisającą, a jeśli będziemy regularnie skracać przyrosty uzyskamy efektowną roślinę kępiastą. Klasyczna forma i żywo zielony kolor filodendrona pnącego w połączeniu z jego łatwą uprawą powoduje, że jest to gatunek warty wprowadzenia do wnętrz mieszkań, biur i innych wnętrz. Odmiana 'Brasil cechuje się wyjątkową kolorystyką liści. Ciemno zielona barwa kontrastuje ze złocistymi, nieregularnie rozmieszczonymi plamami rozchodzącymi się od środka blaszek liściowych ku jej brzegom.",
+        "featured": true,
+        "place": "jasne",
+        "image": "https://cdn.pixabay.com/photo/2021/10/29/06/04/nature-6751128_1280.jpg",
+        "price": "35",
+        "shipping": false
+      }
+    },
+    {
+      "id": 18,
+      "attributes": {
+        "title": "Philodendron hastatum 'Silver Queen' Filodendron",
+        "type": "Obrazkowate",
+        "description": "Philodendron hastatum jest pokaźnym pnączem o silnych pędach i szybkim wzroście. Odmiana 'Silver Queen' należy do rzadkości i jest praktycznie nieosiągalna w zwykłych sklepach i kwiaciarniach! Jej zjawiskowe liście z oddali przyciągają wzrok swoją niebanalną barwą i kształtem. Księżycowy kolor w połączeniu z naturalnym połyskiem daje efekt jakiego próżno szukać wśród innych filodendronów. Pędy warto prowadzić przy silnej podporze, aby móc obserwować niecodzienną urodę tej rośliny. Młode liście są owalne i ostro zakończone, starsze natomiast cechują się wyraźnym wcięciem przy nasadzie, dzięki czemu uzyskują strzałkowaty kształt. Pod względem wymagań Philodendron hastatum nie odbiega od większości popularnych gatunków tego rodzaju -wymaga jasnego miejsca oraz umiarkowanego podlewania i przepuszczalnego podłoża. Bardzo dobrze znosi okresowe przesuszenie.",
+        "featured": false,
+        "place": "jasne",
+        "image": "https://cdn.pixabay.com/photo/2017/01/31/19/07/philodendron-silva-2026502_1280.jpg",
+        "price": "27",
+        "shipping": true
+      }
+    },
+    {
+      "id": 19,
+      "attributes": {
+        "title": "Philodendron 'Birkin'",
+        "type": "Obrazkowate",
+        "description": "Niesłychanie efektowny i pełen wdzięku filodendron ‘Birkin’ o zachwycających ciemnozielonych liściach z kontrastowymi kremowo-białymi nerwami. Jasne, cieniutkie i gęsto usiane paski rozchodzą się na blaszce liściowej łukowato, wzdłuż nerwów bocznych. Młode liście są najjaśniejsze, z czasem zieleń staje się na nich ciemniejsza i tworzy się mocny kontrast z jasnymi pasiastymi żyłkami. W miarę dojrzewania wzór na liściach stają się wyraźniejszy i pojawia się na nich coraz więcej jaśniejszych, cienkich pasków, co daje przepiękny efekt. Roślina ma zwarty i kompaktowy pokrój. Filodendron ‘Birkin’ jest nową hybrydą i dzięki oszałamiającym liściom stał się szybko bardzo pożądaną i poszukiwaną rośliną doniczkową. Luksusowy, niczym drogie torebki Birkin, jest rozchwytywany przez kolekcjonerów roślin. Należy do filodendronów średniej wielkości, osiąga 1 metr, lecz rośnie bardzo wolno.",
+        "featured": false,
+        "place": "jasne",
+        "image": "https://cdn.pixabay.com/photo/2023/05/07/00/27/leaves-7975347_1280.jpg",
+        "price": "22",
+        "shipping": true
+      }
+    },
+    {
+      "id": 20,
+      "attributes": {
+        "title": "Philodendron bipennifolium 'Yellow Violin' ",
+        "type": "Obrazkowate",
+        "description": "Filodendron 'Yellow Violin' to wyjątkowa odmiana filodendrona dwuskrzydłolistnego o osobliwym kształcie i barwie liści. Szczególnie zachwycają jego zjawiskowe liście, które kształtem przypominają skrzypce. Są one szerokie u podstawy i wysmuklają się ku wierzchołkowi. Z zarysu liść jest trójklapowy, ale w szerszej części dwie klapy mogą być lekko powcinane. Charakterystyczne są dwa mocne wcięcia na środku liścia w kształcie litery C, które do złudzenia przypominają wcięcia w pudle rezonansowym skrzypiec. Nowe liście są żółte i jasnozielone, a z czasem stają się ciemniejsze, przez co na jednej roślinie powstaje piękny kontrast kolorystyczny. Filodendron 'Yellow Violin' najlepiej rośnie uprawiany przy podporze - wtedy liście stają się większe, a cały pokrój rośliny jest bardziej zwarty..",
+        "featured": true,
+        "place": "jasne",
+        "image": "https://cdn.pixabay.com/photo/2019/01/15/12/59/philodendron-3934010_1280.jpg",
+        "price": "99",
+        "shipping": false
+      }
+    },
+    {
+      "id": 21,
+      "attributes": {
+        "title": "Epipremnum aureum",
+        "type": "Obrazkowate",
+        "description": "Epipremnum złociste to przepiękne pnącze, które przywędrowało do nas z Wysp Salomona, znajdujących się na Pacyfiku. Roślina zachwyca pokrojem oraz uroczym, pstrym ulistnieniem. Rozrasta się bardzo szybko, wytwarzając kanciaste, twarde, żółtawo-zielone pędy, które mogą osiągać długość nawet 4-5 m. Ozdobą epipremnum są sercowate, skórzaste, ostro zakończone liście. Soczyście zielona powierzchnia blaszki liściowej zdobiona jest kremowo-żółtymi smugami, których ilość uzależniona jest od stopnia nasłonecznienia. Im więcej promieni słonecznych dociera do rośliny, tym jej liście stają się bardziej pstrokate. Epipremnum złociste prezentuje się zjawiskowo, a dodatkowo nie sprawia problemów w uprawie. Efektowne, długie pędy zdobione barwnym ulistnieniem, mogą swobodnie zwisać, tworząc bajeczne kaskady lub czepiać się rozmaitych podpór.",
+        "featured": false,
+        "place": "jasne",
+        "image": "https://cdn.pixabay.com/photo/2018/11/15/10/32/plants-3816945_1280.jpg",
+        "price": "29",
+        "shipping": true
+      }
+    },
+    {
+      "id": 22,
+      "attributes": {
+        "title": "Asplenium nidus ‘Crispy Wave’ ",
+        "type": "Paprotkowce",
+        "description": "Asplenium nidus jest paprocią tropikalną, która w naturze rośnie jako epifit w wilgotnym lesie równikowym. Z powodzeniem można ją jednak uprawiać w warunkach domowych. Tworzy rozety liściowe i ze względu na charakterystyczne gniazdko powstałe w środku rozety, nazywana jest paprocią gniazdową. Odmiana ‘Crispy Wave’ ma liście podłużne, wstęgowate, błyszczące i sztywne o barwie „zielonego jabłuszka”. Blaszka liściowa jest silnie pofalowana i karbowana, przez co kojarzy się z gęsto udrapowanym, ozdobnym żabotem. Paproć ta zachwyca wręcz barokowym przepychem. Nerw główny jest gruby, sztywny i jak mocny stelaż trzyma na środku finezyjnie pofalowaną blaszkę. Odmiana ta została wyselekcjonowana w Japonii z odmiany ‘Osaka’ znalezionej w 1961 roku. Po 30 latach charakterystyczne cechy ‘Crispy Wave’, czyli falistość liści udało się utrwalić, a odmianę opatentować. Paproć ta ma zwartą formę o nieco wzniesionym, rozetkowym pokroju z charakterystycznym gniazdkowatym, włochatym i ciemnym środkiem. Osiąga wysokość 20 cm i szerokość ok. 26 cm, a rozeta docelowo składa się z ok. 35 liści. Nowe liście wyrastają ze środka rozety początkowo w formie spiralnych wstęg i osiągają od 5 do 20 cm długości i 3 - 4 cm szerokości. Tempo wzrostu jest dosyć wolne, w sprzyjających warunkach nowe liście pojawiają się raz na miesiąc, przy czym starsze liście z czasem zamierają.",
+        "featured": true,
+        "place": "półcień",
+        "image": "https://cdn.pixabay.com/photo/2012/05/31/14/55/asplenium-49327_1280.jpg",
+        "price": "24",
+        "shipping": true
+      }
+    },
+    {
+      "id": 23,
+      "attributes": {
+        "title": "Nephrolepis exaltata",
+        "type": "Paprotkowce",
+        "description": "Nefrolepsis wyniosły jest najbardziej znaną i najpopularniejszą paprocią, którą od pokoleń uprawia się w domach. Zdobiła mieszkania naszych prababć i peerelowskie meblościanki rodziców, a obecnie znów przeżywa swój renesans. W naturze rośnie w lasach tropikalnych Ameryki Południowej. Zachwyca pięknymi, długimi pierzastymi liśćmi, które przewieszają się ku dołowi, wyginając łukowato. W zależności od odmiany, liście mogą osiągać nawet do 130 cm długości. Tworzą bujny i spektakularnie zwisający pióropusz, jednocześnie zachowując przy tym lekki i ażurowy wygląd całej rośliny. Paproć nefrolepis najpiękniej wygląda uprawiana w wiszących pojemnikach lub ustawiona na wyeksponowanych, wysokich słupkach i kwietnikach. Jest rośliną ponadczasową i zawsze modną, która pasuje do każdego stylu i wnętrza. Ma także korzystny wpływ na zdrowie człowieka, ponieważ jonizuje ujemnie powietrze.",
+        "featured": true,
+        "place": "półcień",
+        "image": "https://cdn.pixabay.com/photo/2020/04/30/19/52/boston-fern-5114414_1280.jpg",
+        "price": "41",
+        "shipping": true
+      }
+    },
+    {
+      "id": 24,
+      "attributes": {
+        "title": "Alokazja polly",
+        "type": "Obrazkowate",
+        "description": "Alokazja polly zwana alokazją amazońską to prawdziwa księżniczka wśród roślin doniczkowych. Niesamowity, przypominający literę V kształt liści o ciemnym kolorze i jasnym, kontrastowym unerwieniu powoduje, że wygrywa wszystkie konkursy piękności! Chyba nie zdziwisz się, że taka roślina ma swoje wymagania? W jej uprawie zwróć uwagę na dostęp do rozproszonego światła, regularne podlewanie, podwyższoną wilgotność powietrza oraz brak przeciągów.",
+        "featured": false,
+        "place": "półcień",
+        "image": "https://cdn.pixabay.com/photo/2021/09/11/02/25/leaf-6614498_1280.jpg",
+        "price": "35",
+        "shipping": true
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 10,
+      "pageCount": 3,
+      "total": 22
+    },
+    "type": [
+      "all",
+      "Orchidea",
+      "Sukulent",
+      "Pokrzywowate",
+      "Obrazkowate",
+      "Toinowate",
+      "Kaktus",
+      "Paprotkowce"
+    ],
+    "place": ["all", "jasne", "cień", "słoneczne", "półcień"]
+  }
+}
